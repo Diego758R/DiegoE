@@ -1,6 +1,6 @@
 body{
-    color: rgb(255, 212, 226);
-    background: rgb(65, 247, 247);
+    color: rgb(0, 0, 0);
+    background: rgb(159, 244, 255);
     margin:0px;
 }
 
@@ -8,16 +8,16 @@ header{
     border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(245, 148, 180);
+    color: rgb(0, 0, 0);
 }
 
 section{
-    background: rgb(235, 235, 235);
+    background: rgb(255, 255, 255);
     padding-bottom: 80x;
     padding-top: 80px;
 }
 .chamada{
-    background: rgb(184,156,213);
+    background: rgb(160, 236, 255);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
